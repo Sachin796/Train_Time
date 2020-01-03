@@ -30,8 +30,6 @@
 
 ## Tech Stack
 
-[^top](#table-of-contents)
-
 - ### Front End
 
    <img src="./images/HTML.png" width="100" height="100"> 
